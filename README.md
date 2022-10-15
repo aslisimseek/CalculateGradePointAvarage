@@ -1,1 +1,1 @@
-# CalculateGradePointAvarage
+# CalculateGradePointAverage
